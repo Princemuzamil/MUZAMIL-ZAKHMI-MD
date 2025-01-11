@@ -24,7 +24,7 @@ https://github.com/MRMUZAMIL50/MUZAMIL-ZAKHMI-MD`;
 
         // Send image with caption
         await conn.sendMessage(from, { 
-            image: { url: `https://i.ibb.co/hdNwpzC/temp-image.jpg` }, 
+            image: { url: `https://i.ibb.co/ZJwzVrG/temp-image.jpg` }, 
             caption: dec, 
             contextInfo: { 
                 mentionedJid: [m.sender], 

@@ -30,7 +30,7 @@ OWNER_NAME: process.env.OWNER_NAME || "Mʀ Mᴜᴢᴀᴍɪʟ",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Mᴜᴢᴀᴍɪʟ*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/hdNwpzC/temp-image.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/ZJwzVrG/temp-image.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *MUZAMIL-ZAKHMI*🤠",
 // add alive msg here 
